@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63776174197",
+    "firebase_url": "https://rancakbana-17.firebaseio.com",
+    "project_id": "rancakbana-17",
+    "storage_bucket": "rancakbana-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63776174197:android:1c9dd80d5ff85c77",
+        "android_client_info": {
+          "package_name": "com.example.rancakbana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63776174197-73l0cgdkc8ussoiitqqdi9v8789lh21r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rancakbana",
+            "certificate_hash": "9d71dda085cf1d042d0404d7030aa7bf22b6db42"
+          }
+        },
+        {
+          "client_id": "63776174197-vqho3i4r56korvlq8uta5oi651m95nb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3Tqj0W0o0Ge_ojPPNiGOjoNGeEN2twM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63776174197-vqho3i4r56korvlq8uta5oi651m95nb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
